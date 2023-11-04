@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DotnetUpskilling
+build_property.ProjectDir = C:\Users\Devi\Documents\Document Ketsar\COURSE\BOOTCAMP\upskilling\dotnet\projects\RIDER\video-1\DotnetUpskilling\DotnetUpskilling\
