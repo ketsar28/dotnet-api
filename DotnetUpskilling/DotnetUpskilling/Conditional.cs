@@ -26,7 +26,7 @@ public class Conditional
         // {
         //     Console.WriteLine("i don't know about it");
         // }
-        
+
         /*
          * switch : penyerdehanaan if else statement
          * case tidak direkomendasikan untuk value integer pada switch statement, walaupun bisa

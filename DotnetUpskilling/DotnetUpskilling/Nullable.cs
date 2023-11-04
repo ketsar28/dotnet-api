@@ -4,7 +4,7 @@ namespace DotnetUpskilling;
 
 public class Nullable
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         /*
          * Nullable :
@@ -37,6 +37,29 @@ public class Nullable
         else
         {
             Console.WriteLine("data is empty");
+        }
+        
+        /*
+         * string.Empty; sama dengan ""
+         * string data = "" - string data = string.Empty
+         */
+        string value = string.Empty;
+        SayName(null);
+    }
+
+    static void SayName(string? name)
+    {
+        /*
+         * selain menggunakan simbol operator perbandingan, kita juga bisa menggunaka kata
+         * seperti : is not (!=), is (==), and (&&), or (||)
+         */
+        if (name is not null)
+        {
+            Console.WriteLine($"hello mas {name}");
+        }
+        else
+        {
+            Console.WriteLine("data is null");
         }
     }
 }
