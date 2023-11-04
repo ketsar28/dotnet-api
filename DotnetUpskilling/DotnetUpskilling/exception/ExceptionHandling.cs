@@ -11,6 +11,7 @@
  * contoh exception di C# :
  * DivideByZeroException
  * NullReferenceException
+ * Custom Exception (dibuat sendiri)
  *
  * keyword yang digunakan :
  * try, catch, finally, throw
@@ -22,17 +23,17 @@
 
 public class ExceptionHandling
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
-        Console.Write("input first number : ");
-        var a = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
-        Console.Write("input second number : ");
-        var b = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
+        // Console.Write("input first number : ");
+        // var a = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
+        // Console.Write("input second number : ");
+        // var b = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
 
         // ConsoleMessageException(a, b);
         // ThrowMessageException(a, b);
         // FinallyInTryCatch(a, b);
-        // PrintResultOfName();
+        PrintResultOfName();
       
     }
 
@@ -104,7 +105,7 @@ public class ExceptionHandling
             temp = name;
         }
 
-        if (temp is null) throw new Exception($"{input} not found");
+        if (temp is null) throw new CustomException($"{input} not found");
 
         return $"i was find {temp}";
     }
