@@ -1,6 +1,5 @@
-﻿using ClassicShopAPI.Repositories;
-using CyberShopAPI.Repositories;
-using EFUpskilling.Entities;
+﻿using ClassicShopAPI.Entities;
+using ClassicShopAPI.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ClassicShopAPI.Controllers;

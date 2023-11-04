@@ -1,6 +1,5 @@
 ﻿using System.Linq.Expressions;
 using ClassicShopAPI.Repositories.context;
-using CyberShopAPI.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace ClassicShopAPI.Repositories.impl;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4PJYuZ2k+FOnwoqiIHLMyqaj3+cTSeDdAme9elvHMKGq5F3G9OfSPBldLbSLOO3RKtVqXOoQbKRD75mlmng/jg==",
+  "dgSpecHash": "fPUG2h3lCg8QPGPKC8Z3s8XaNNIhP4KCGB8KJDgY8Q7XVB6+q5khrigE4igGZUs9DDHldLdWALXi0yN6PawkQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-11\\ClassicShopAPI\\ClassicShopAPI\\ClassicShopAPI.csproj",
+  "projectFilePath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\COURSE\\BOOTCAMP\\upskilling\\dotnet\\projects\\video-12\\ClassicShopAPI\\ClassicShopAPI\\ClassicShopAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devi\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Devi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

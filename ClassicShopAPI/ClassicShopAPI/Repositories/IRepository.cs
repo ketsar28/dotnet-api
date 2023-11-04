@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace CyberShopAPI.Repositories;
+namespace ClassicShopAPI.Repositories;
 
 /*
  * kalau ada async pasti ada await (dijs), dan dia pake promise. jadi kalau ada promise, itu bisa pake async await.

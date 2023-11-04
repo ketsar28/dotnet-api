@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace CyberShopAPI.Controllers;
+namespace ClassicShopAPI.Controllers;
 
 /*
  * kalau routenya "[controller]" : dia akan menyesuaikan nama dari class controllernya (PascalCase). tanpa kata 'Controllernya' : jadi : HelloController => /Hello 
@@ -10,7 +10,7 @@ namespace CyberShopAPI.Controllers;
  * kalau returnnya object, secara otomatis akan dikembalikan responsenya sebagai json
  *
  * path variable di C# : sama seperti java /{path}
- * query param : biasa digunakan untuk melakukan searching, dan ini bisa dikombinasikan dengan LINQ. cara membuat query param di C# : 
+ * query param : biasa digunakan untuk melakukan searching, dan ini bisa dikombinasikan dengan LINQ. cara membuat query param di C# : [FormQuery]
  */
 
 [ApiController]

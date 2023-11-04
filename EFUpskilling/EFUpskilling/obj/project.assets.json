@@ -2612,11 +2612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-11\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj",
+      "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-12\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj",
       "projectName": "EFUpskilling",
-      "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-11\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj",
+      "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-12\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj",
       "packagesPath": "C:\\Users\\Devi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-11\\EFUpskilling\\EFUpskilling\\obj\\",
+      "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-12\\EFUpskilling\\EFUpskilling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

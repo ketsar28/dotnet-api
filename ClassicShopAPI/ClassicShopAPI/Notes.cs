@@ -1,4 +1,4 @@
-﻿namespace CyberShopAPI;
+﻿namespace ClassicShopAPI;
 
 public class Notes
 {

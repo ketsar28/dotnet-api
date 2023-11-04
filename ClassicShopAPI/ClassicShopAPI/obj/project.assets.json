@@ -3049,11 +3049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-11\\ClassicShopAPI\\ClassicShopAPI\\ClassicShopAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\COURSE\\BOOTCAMP\\upskilling\\dotnet\\projects\\video-12\\ClassicShopAPI\\ClassicShopAPI\\ClassicShopAPI.csproj",
       "projectName": "ClassicShopAPI",
-      "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-11\\ClassicShopAPI\\ClassicShopAPI\\ClassicShopAPI.csproj",
+      "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\COURSE\\BOOTCAMP\\upskilling\\dotnet\\projects\\video-12\\ClassicShopAPI\\ClassicShopAPI\\ClassicShopAPI.csproj",
       "packagesPath": "C:\\Users\\Devi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-11\\ClassicShopAPI\\ClassicShopAPI\\obj\\",
+      "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\COURSE\\BOOTCAMP\\upskilling\\dotnet\\projects\\video-12\\ClassicShopAPI\\ClassicShopAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

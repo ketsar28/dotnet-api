@@ -1,4 +1,4 @@
-﻿using EFUpskilling.Entities;
+﻿using ClassicShopAPI.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace ClassicShopAPI.Repositories.context;

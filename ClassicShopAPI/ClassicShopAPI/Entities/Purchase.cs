@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace EFUpskilling.Entities;
+namespace ClassicShopAPI.Entities;
 
 /*
  * virtual ini sebagai penanda object relasi antara :
@@ -22,6 +22,6 @@ public class Purchase
     [Column("trans_date")] public DateTime TransDate { get; set; }
     [Column("user_id")] public Guid UserId { get; set; }
 
-    public virtual User User { get; set; }
+    public virtual User? User { get; set; }
     public virtual ICollection<PurchaseDetail> PurchaseDetails { get; set; }
 }

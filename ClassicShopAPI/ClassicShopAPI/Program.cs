@@ -1,11 +1,17 @@
+using ClassicShopAPI.Entities;
+using ClassicShopAPI.Middlewares;
 using ClassicShopAPI.Repositories;
 using ClassicShopAPI.Repositories.context;
 using ClassicShopAPI.Repositories.impl;
-using CyberShopAPI.Repositories;
+using ClassicShopAPI.Services;
+using ClassicShopAPI.Services.impl;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Host.ConfigureLogging(loggingBuilder =>
+{
+    loggingBuilder.AddConsole(); // supaya dimasukan ke console
+});
 /*
  * jadi di C# untuk dependency injectionnya harus didaftarkan secara manual di class Program.cs
  *
@@ -45,7 +51,9 @@ builder.Services.AddDbContext<AppDbContext>
 
 builder.Services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddTransient<IPersistence, Persistence>();
-
+builder.Services.AddTransient<IProductService, ProductService>();
+builder.Services.AddTransient<IPurchaseService, PurchaseService>();
+builder.Services.AddTransient<HandleExceptionMiddleware>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -54,6 +62,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddleware<HandleExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 

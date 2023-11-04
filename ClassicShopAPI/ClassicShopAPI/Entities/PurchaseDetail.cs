@@ -1,7 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace EFUpskilling.Entities;
+namespace ClassicShopAPI.Entities;
+
+/*
+ * Purchase dan Product di set sebagai optional (?) : karena supaya yang dikirim itu id-nya saja, kalau tidak ditambahkan optional maka akan terkena validasi dan sifatnya required
+ * 
+ */
 
 [Table(("trx_purchase_detail"))]
 public class PurchaseDetail
@@ -11,6 +16,6 @@ public class PurchaseDetail
     [Column("product_id")] public Guid ProductId { get; set; }
     [Column("qty")] public int Qty { get; set; }
 
-    public virtual Purchase Purchase { get; set; }
-    public virtual Product Product { get; set; }
+    public virtual Purchase? Purchase { get; set; }
+    public virtual Product? Product { get; set; }
 }
