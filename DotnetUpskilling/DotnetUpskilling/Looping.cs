@@ -2,7 +2,7 @@
 
 public class Looping
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         /*
          * C# ada 3 jenis looping : (for, while, do-while)
