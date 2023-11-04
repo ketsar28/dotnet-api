@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-9\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj": {}
+    "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-10\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-9\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj": {
+    "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-10\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-9\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj",
+        "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-10\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj",
         "projectName": "EFUpskilling",
-        "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-9\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj",
+        "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-10\\EFUpskilling\\EFUpskilling\\EFUpskilling.csproj",
         "packagesPath": "C:\\Users\\Devi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-9\\EFUpskilling\\EFUpskilling\\obj\\",
+        "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-10\\EFUpskilling\\EFUpskilling\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Devi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Devi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DotNet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\DotNet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\DotNet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,49 +8,48 @@
 public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
 {
     // cara seperti untuk melakukan Depencency Injection, tapi bukan DI
-    private readonly AppUserDbContext _appUserDbContext;
+    private readonly AppCommerceDbContext _appCommerceDbContext;
 
-    public Repository(AppUserDbContext appDbContext)
+    public Repository(AppCommerceDbContext appDbContext)
     {
-        _appUserDbContext = appDbContext;
+        _appCommerceDbContext = appDbContext;
     }
 
     public TEntity Save(TEntity entity)
     {
-        var entry = _appUserDbContext.Set<TEntity>().Add(entity);
-        _appUserDbContext.SaveChanges();
+        var entry = _appCommerceDbContext.Set<TEntity>().Add(entity);
+
         return entry.Entity;
     }
 
     public TEntity? GetById(Guid id)
     {
-        return _appUserDbContext.Set<TEntity>().Find(id);
+        return _appCommerceDbContext.Set<TEntity>().Find(id);
     }
 
     public TEntity? GetBy(Func<TEntity, bool> predicate)
     {
-        return _appUserDbContext.Set<TEntity>().FirstOrDefault(predicate);
+        return _appCommerceDbContext.Set<TEntity>().FirstOrDefault(predicate);
     }
 
     public IEnumerable<TEntity> GetAll()
     {
-        return _appUserDbContext.Set<TEntity>().AsEnumerable();
+        return _appCommerceDbContext.Set<TEntity>().AsEnumerable();
     }
 
     public IEnumerable<TEntity> GetAll(Func<TEntity, bool> predicate)
     {
-        return _appUserDbContext.Set<TEntity>().Where(predicate);
+        return _appCommerceDbContext.Set<TEntity>().Where(predicate);
     }
 
     public void Update(TEntity entity)
     {
-       _appUserDbContext.Set<TEntity>().Update(entity);
-       _appUserDbContext.SaveChanges();
+       _appCommerceDbContext.Set<TEntity>().Update(entity);
     }
 
     public void Delete(TEntity entity)
     {
-        _appUserDbContext.Set<TEntity>().Remove(entity);
-        _appUserDbContext.SaveChanges();
+        _appCommerceDbContext.Set<TEntity>().Remove(entity);
+
     }
 }
