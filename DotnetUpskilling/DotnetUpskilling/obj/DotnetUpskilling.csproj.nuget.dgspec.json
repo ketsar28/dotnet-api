@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-4\\DotnetUpskilling\\DotnetUpskilling\\DotnetUpskilling.csproj": {}
+    "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-5\\DotnetUpskilling\\DotnetUpskilling\\DotnetUpskilling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-4\\DotnetUpskilling\\DotnetUpskilling\\DotnetUpskilling.csproj": {
+    "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-5\\DotnetUpskilling\\DotnetUpskilling\\DotnetUpskilling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-4\\DotnetUpskilling\\DotnetUpskilling\\DotnetUpskilling.csproj",
+        "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-5\\DotnetUpskilling\\DotnetUpskilling\\DotnetUpskilling.csproj",
         "projectName": "DotnetUpskilling",
-        "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-4\\DotnetUpskilling\\DotnetUpskilling\\DotnetUpskilling.csproj",
+        "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-5\\DotnetUpskilling\\DotnetUpskilling\\DotnetUpskilling.csproj",
         "packagesPath": "C:\\Users\\Devi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-4\\DotnetUpskilling\\DotnetUpskilling\\obj\\",
+        "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\general\\exercise-and-notes\\dot-net\\projects\\video-5\\DotnetUpskilling\\DotnetUpskilling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Devi\\AppData\\Roaming\\NuGet\\NuGet.Config"

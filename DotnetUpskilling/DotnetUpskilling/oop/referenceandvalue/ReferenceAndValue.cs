@@ -16,7 +16,7 @@
  */
 public class ReferenceAndValue
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         // int a = 10;
         // int b = a;
