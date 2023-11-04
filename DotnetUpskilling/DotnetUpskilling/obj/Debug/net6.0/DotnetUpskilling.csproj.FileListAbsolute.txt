@@ -1,0 +1,15 @@
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\bin\Debug\net6.0\DotnetUpskilling.exe
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\bin\Debug\net6.0\DotnetUpskilling.deps.json
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\bin\Debug\net6.0\DotnetUpskilling.runtimeconfig.json
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\bin\Debug\net6.0\DotnetUpskilling.dll
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\bin\Debug\net6.0\DotnetUpskilling.pdb
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\DotnetUpskilling.csproj.AssemblyReference.cache
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\DotnetUpskilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\DotnetUpskilling.AssemblyInfoInputs.cache
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\DotnetUpskilling.AssemblyInfo.cs
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\DotnetUpskilling.csproj.CoreCompileInputs.cache
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\DotnetUpskilling.dll
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\refint\DotnetUpskilling.dll
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\DotnetUpskilling.pdb
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\DotnetUpskilling.genruntimeconfig.cache
+C:\Users\Devi\Documents\Document Ketsar\general\exercise-and-notes\dot-net\projects\video-1\DotnetUpskilling\DotnetUpskilling\obj\Debug\net6.0\ref\DotnetUpskilling.dll
