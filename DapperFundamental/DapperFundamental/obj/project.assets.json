@@ -1823,11 +1823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-7\\DapperFundamental\\DapperFundamental\\DapperFundamental.csproj",
+      "projectUniqueName": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-8\\DapperFundamental\\DapperFundamental\\DapperFundamental.csproj",
       "projectName": "DapperFundamental",
-      "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-7\\DapperFundamental\\DapperFundamental\\DapperFundamental.csproj",
+      "projectPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-8\\DapperFundamental\\DapperFundamental\\DapperFundamental.csproj",
       "packagesPath": "C:\\Users\\Devi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-7\\DapperFundamental\\DapperFundamental\\obj\\",
+      "outputPath": "C:\\Users\\Devi\\Documents\\Document Ketsar\\bootcamp\\upskilling\\dotnet\\projects\\video-8\\DapperFundamental\\DapperFundamental\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Devi\\AppData\\Roaming\\NuGet\\NuGet.Config"
